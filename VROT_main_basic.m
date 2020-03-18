@@ -5,8 +5,7 @@
 %     --inputs    : filename, datadir
 %     --outputs   : data structure(T), +variables
 %     --calls     : robotconv.m,diff23f5.m,tangperp_targ.m
-%  Created by Alaa Ahmed 19-Dec-2009
-%  Last modified  16-Feb-2010
+%  Last modified  10-Feb-2012
 
 clear all
 close all
