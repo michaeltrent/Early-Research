@@ -11,7 +11,6 @@ function [T] = robotdataread(filename,filedir)
 %     --inputs    : filename, filedir
 %     --outputs   : data structure, (T)
 %     --calls     : robotconv.m
-%  Created by Alaa Ahmed 19-Dec-2009
 %  Last modified  15-Feb-2010
 
 olddir=pwd;
